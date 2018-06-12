@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://demo.wasi.co
+Data file = /home/demowa/public_html/wp-content/uploads/2018/04/demo-content-import-file_2018-04-15__19-47-55.xml
+Widget file = /home/demowa/public_html/wp-content/uploads/2018/04/demo-widgets-import-file_2018-04-15__19-47-55.json
+Customizer file = /home/demowa/public_html/wp-content/uploads/2018/04/demo-customizer-import-file_2018-04-15__19-47-55.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar widget area : 
+
+Buscar - Search - Imported
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+
+Call to action top widget area : 
+
+WBR : Call To Action Top - No Title - Imported
+
+Homepage service section - sidebar : 
+
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+
+Homepage project section - sidebar : 
+
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+
+Homepage news section - sidebar : 
+
+WBR : Recent News Widget - Latest News - Imported
+
+Footer widget area : 
+
+WBR : Sidebar Latest News - Latest News - Imported
+Nube de etiquetas - Tag Cloud - Imported
+Texto - Contact Info - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

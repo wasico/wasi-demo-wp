@@ -1,0 +1,38 @@
+[01-May-2018 20:54:55 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/demowa/public_html/wp-content/plugins/wasi-connector/api/class-wasi-api.php on line 14
+[01-May-2018 20:54:58 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/demowa/public_html/wp-content/plugins/wasi-connector/api/class-wasi-api.php on line 14
+[01-May-2018 20:55:00 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/demowa/public_html/wp-content/plugins/wasi-connector/api/class-wasi-api.php on line 14
+[01-May-2018 20:55:02 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/demowa/public_html/wp-content/plugins/wasi-connector/api/class-wasi-api.php on line 14
+[15-May-2018 15:26:13 UTC] [Loco.debug] "Las traducciones no coinciden con la plantilla. Ejecuta la sincronización para actualizar desde wasico.pot" in src/admin/file/EditController.php:103
+[17-May-2018 20:33:20 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:20 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:22 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:23 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:23 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:23 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:23 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:25 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:25 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:25 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:25 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:25 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[17-May-2018 20:33:25 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in /home/demowa/public_html/wp-includes/functions.php on line 3729
+[20-May-2018 14:47:57 UTC] PHP Notice:  Undefined index: wasi_bootstrap in /home/demowa/public_html/wp-content/plugins/wasi-connector/admin/class-wasi-admin.php on line 204
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 423
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 425
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 427
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 429
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 431
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 433
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 435
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 437
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 439
+[30-May-2018 21:32:52 UTC] PHP Notice:  Undefined variable: spoontalk_hover_animation in /home/demowa/public_html/wp-content/plugins/spoontalk-social-media-icons-widget/settings.php on line 441
